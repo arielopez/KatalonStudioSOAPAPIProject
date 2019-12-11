@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDriverTestDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a626559d-9581-43ac-b402-fb17d9851982</testCaseGuid>
+   <variable>
+      <defaultValue>'US'</defaultValue>
+      <description></description>
+      <id>49d8c258-fef5-4f4e-b597-52c81e32f795</id>
+      <masked>false</masked>
+      <name>countryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Washington'</defaultValue>
+      <description></description>
+      <id>078540fc-3e03-47f3-a794-a4afcd55163b</id>
+      <masked>false</masked>
+      <name>Capital</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dollars'</defaultValue>
+      <description></description>
+      <id>f2fee9b2-f140-410b-bb43-d0602688a88c</id>
+      <masked>false</masked>
+      <name>currency</name>
+   </variable>
+</TestCaseEntity>
